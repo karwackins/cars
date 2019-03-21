@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/wamp/www/Cars/routes/web.php</file>
+            <file>file:/C:/wamp/www/Cars/app/Http/Controllers/PlaceController.php</file>
+            <file>file:/C:/wamp/www/Cars/resources/views/detriments/list.blade.php</file>
+            <file>file:/C:/wamp/www/Cars/app/Http/Controllers/DetrimentController.php</file>
+            <file>file:/C:/wamp/www/Cars/resources/views/detriments/create.blade.php</file>
+            <file>file:/C:/wamp/www/Cars/app/Detriments.php</file>
+            <file>file:/C:/wamp/www/Cars/resources/views/detriments/edit.blade.php</file>
+            <file>file:/C:/wamp/www/Cars/resources/views/drivers/edit.blade.php</file>
+            <file>file:/C:/wamp/www/Cars/app/Driver.php</file>
+        </group>
+    </open-files>
+</project-private>
